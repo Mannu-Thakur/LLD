@@ -93,6 +93,11 @@ g++ chessGame.cpp -o chess
 * PGN export/import
 
 ---
+## OUTPUT
+<img width="1890" height="927" alt="image" src="https://github.com/user-attachments/assets/cf13b9c8-8da5-499d-86ba-3ffb887ece15" />
+<img width="1841" height="738" alt="Screenshot 2026-03-29 061451" src="https://github.com/user-attachments/assets/03ad7127-e391-4bf6-a1ca-83da01a0435e" />
+
+
 
 ## 📌 Author
 
